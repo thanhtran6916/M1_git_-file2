@@ -261,3 +261,10 @@ textarea {
   }
 }
 
+p {
+  color: red;
+  font-family: Arial;
+  font-size: 30px;
+  font-weight: 600;
+}
+
